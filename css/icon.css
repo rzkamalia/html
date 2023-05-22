@@ -1,4 +1,4 @@
-.tittle-web{
+.tittle-web {
     background-color: rgb(255, 211, 226);
     display: block;
     font-size: 100px;
@@ -6,7 +6,7 @@
     color: rgb(255, 0, 85);
 }
 
-.bar{
+.bar {
     display: flex;
     flex-direction: row;
 }
